@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 345.9 286.4">
+  <defs>
+    <style>
+      .c {
+        fill: none;
+      }
+
+      .d {
+        fill: #545cec;
+      }
+    </style>
+  </defs>
+  <rect id="b" data-name="&amp;lt;Slice&amp;gt;" class="c" x="-170.5" y="-174.7" width="611.4" height="611.4"/>
+  <path class="d" d="M199.61,121.28L303.91,.03h-24.72l-90.57,105.28L116.29,.03H32.86l109.39,159.2-109.39,127.14h24.72l95.64-111.18,76.39,111.18h83.43L199.6,121.28h0Zm-33.86,39.35l-11.08-15.85L66.48,18.64h37.97l71.17,101.8,11.08,15.85,92.51,132.32h-37.97l-75.49-107.97h0Z"/>
+</svg>

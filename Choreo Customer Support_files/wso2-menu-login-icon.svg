@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 22 20" enable-background="new 0 0 22 20" xml:space="preserve">
+<g>
+	<circle fill-rule="evenodd" clip-rule="evenodd" fill="#666666" cx="11" cy="4.89" r="4.706"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#666666" d="M19.814,20.184c-0.112-5.481-1.513-9.084-8.815-9.084
+		c-6.927,0-8.669,3.603-8.812,9.084H19.814z"/>
+</g>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-581.341" y="-37.683" width="719.692" height="625.783">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="-581.341" y="-37.683" width="719.692" height="625.783" id="SVGID_1_">
+	<g filter="url(#Adobe_OpacityMaskFilter)">
+		<radialGradient id="SVGID_2_" cx="-226.4945" cy="270.3346" r="280.6882" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.2917" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		</radialGradient>
+		
+			<rect x="-532.215" y="17.141" fill="url(#SVGID_2_)" stroke="#666666" stroke-width="0.76" stroke-miterlimit="10" width="611.441" height="506.387"/>
+	</g>
+</mask>
+<g mask="url(#SVGID_1_)">
+</g>
+</svg>
